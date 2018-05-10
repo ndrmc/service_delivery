@@ -1,0 +1,12 @@
+Serivce
+-> Service catalog : category/hierarchy
+-> Service owner
+-> Service time duration
+-> Assignment/Triage
+-> Assignees
+-> Tickets
+-> Comments on tickets
+-> Follow-up
+-> Resolution
+-> Feedback
+-> Evalutation
